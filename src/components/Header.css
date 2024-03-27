@@ -1,0 +1,14 @@
+.headercontainer{
+   
+    display: flex;
+}
+img{
+    height:75% ;
+    width:10% ;
+}
+.logocontain{
+    display: flex;
+}
+.space{
+    margin-right: 40%;
+}
