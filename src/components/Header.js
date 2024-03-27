@@ -8,12 +8,17 @@ import logo from "../images/logo.png"
     
   
     return(
-        <div className="headercontainer  mt-3  mx-5 ">
+        <div>
+            <div className="headercontainer  mt-3  mx-5 ">
              <div className="logocontain">
                <h1>Cargo</h1>
                <img src={logo} alt="Logo" />
-               <p className="space"></p>
-
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               
              {/* Home*/}
              
              <div class="dropdown">
@@ -47,7 +52,7 @@ import logo from "../images/logo.png"
 {/* Tracking*/}
              
 <div class="dropdown">
-  <a class="btn  dropdown-toggle mt-2" href=".com" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+  <a class="btn  dropdown-toggl mt-2" href=".com" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
     TRACKING
   </a>
 
@@ -89,12 +94,18 @@ import logo from "../images/logo.png"
 </div>
              {/* */}
 
-             
+             <button className="butQuote">&nbsp;&nbsp;GET A QUOTE&nbsp;&nbsp;</button>&nbsp;&nbsp;
+             <button className="btnsign">&nbsp;&nbsp;SIGN IN&nbsp;&nbsp;</button>
              </div>
 
             
 
         </div>
+        <div>
+            <h6 className="ton">TON</h6>
+        </div>
+        </div>
+        
     );
 }
 export default Header;

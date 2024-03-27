@@ -4,11 +4,31 @@
 }
 img{
     height:75% ;
-    width:10% ;
+    width:3% ;
 }
 .logocontain{
     display: flex;
 }
-.space{
-    margin-right: 40%;
+
+.butQuote{
+    height: 55%;
+    margin-top: 1%;
+    border: none;
+    background-color: #ffc107;
+    color: white;
+    
+}
+.btnsign{
+    height: 55%;
+    margin-top: 1%;
+    border: none;
+    background-color: #343a40;
+    color: white;
+}
+.ton{
+    margin-left: 10.5%;
+    margin-top: -1%;
+    padding-top: 0px;
+    
+    float: left;
 }
