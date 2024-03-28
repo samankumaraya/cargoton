@@ -1,0 +1,44 @@
+
+.footercontain{
+    background-color:#5D6D7E ;
+}
+
+form{
+    display: flex;
+    height: 85%;
+}
+.lineone{
+    display: flex;
+    color: white;
+}
+form{
+    margin-left: 45%;
+}
+input{
+    width: 50%;
+}
+.linetwo{
+    float: left;
+    padding-left: 0%;
+    background-color:#5D6D7E ;
+    width: 100%;
+}
+.linetwo p{
+    float: left;
+    margin-left: 13%;
+    padding-left: 0;
+    color: white;
+    
+}
+.linethree{
+    color: white;
+    margin-top: 7%;
+}
+
+.col-sm{
+    display: flex;
+  margin-left: 6%;
+  
+  
+  
+}
