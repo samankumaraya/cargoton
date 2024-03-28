@@ -1,0 +1,22 @@
+.col-lg{
+    float: left;
+    margin-left: -5%;
+    
+    
+}
+.testimotioncontain{
+    display: flex;
+    margin-left: 100px;
+}
+.par_trus{
+    margin-left: 150px;
+}
+.testhead{
+    background-color: blue;
+    width:100%;
+    display: flex;
+}
+.headleft{
+    
+    justify-content: start;
+}
