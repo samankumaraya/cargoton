@@ -1,7 +1,7 @@
 
 .footercontain{
     background-color:#5D6D7E ;
-    height: 590px;
+    height: 640px;
 }
 
 form{
@@ -36,7 +36,7 @@ input{
 }
 .linethree{
     color: white;
-    margin-top: 5%;
+    margin-top: 8%;
     display: flex;
     margin-left: 3%;
 }

@@ -25,12 +25,12 @@ export default function footer() {
     return(
         <div className="footercontain mx-2">
           <div className="lineone">
-             <h3 className="foothead">&nbsp;Weekly Newsletter</h3>
+             <h3 className="foothead" style={{ 'margin-left': '5.5%','margin-top': '1%' }}>&nbsp;Weekly Newsletter</h3>
 
-             <form>
+             <form style={{ 'margin-left': '71%','margin-top': '1%' }}>
                 <div class="form-group mt-1">
     
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your mail"/>
+                <input   type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your mail"/>
     
                  </div>
                   &nbsp;
@@ -39,7 +39,7 @@ export default function footer() {
           </div> 
             
 
-            <div className="linetwo">
+            <div  style={{ 'margin-left': '-7%','margin-top': '1%' }} className="linetwo">
                 <p>There are many vaiations of passages of lorem ipsum available</p>
             </div>
 
