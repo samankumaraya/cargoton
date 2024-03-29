@@ -1,0 +1,116 @@
+.welcomecontain{
+    display: flex;
+    padding-bottom: 100px;
+    padding-top: 70px;
+}
+.welright{
+    
+    margin-left: 2%;
+    width: 48%;
+}
+.welleft{
+    margin-right: 2%;
+    width: 48%;
+    margin-left: 4%;
+    
+}
+.welimg1{
+    
+    height: 300px;
+    width: 280px;
+}
+.welimg2{
+    position: absolute;
+    height: 240px;
+    width: 180px;
+    margin-left:  -25%;
+    margin-top: 7%;
+    
+}
+.clientimg{
+    position: absolute;
+    width: 850px;
+    margin-left:  -15%;
+    margin-top: 7.5%;
+    height: 500px;
+}
+.welright h2{
+    position: relative;
+    margin-left: 52%;
+    margin-top: -6.5%;
+    color: white;
+}
+.welright p{
+    position: relative;
+    margin-left: 50%; 
+    color: white
+}
+.wellefttopic{
+    display: flex;
+}
+.welleft h2{
+position: relative;
+justify-content: flex-start;
+}
+.welleft .line1{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.line2{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 5%; 
+}
+.line3{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 2%; 
+    color: #ffc107;
+}
+.pl1{
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 2%; 
+    
+}
+.pl2{
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2%; 
+    
+}
+.pl3{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 2%; 
+    
+}
+.pl4{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 2%; 
+    color: #6b6860;
+    
+}
+.pl5{
+    position: absolute;
+    margin-top: 6.5%;
+    margin-left: 2%; 
+    color: #6b6860;
+}
+.pl6{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 2%; 
+    color: #6b6860;
+}
+.welbutton{
+    position: absolute;
+    margin-top: 11%;
+    margin-left: -19.5%; 
+    background-color: antiquewhite;
+    font-size: 15px;
+    border: none;
+    height: 35px;
+}

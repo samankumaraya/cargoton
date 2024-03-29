@@ -5,6 +5,7 @@ import State from '../components/state';
 import ClientLogo from '../components/ClientLogo';
 import Testimotion from '../components/Testimotion';
 import Slider from '../components/Slider';
+import Welcome from '../components/Welcome';
 
 export default function Home() {
   
@@ -12,6 +13,7 @@ export default function Home() {
         <div className='homecontainer'>
              <Header/>
              <Slider/>
+             <Welcome/>
              <State/>
              <Testimotion/>
              <ClientLogo/>
