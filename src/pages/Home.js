@@ -6,6 +6,7 @@ import ClientLogo from '../components/ClientLogo';
 import Testimotion from '../components/Testimotion';
 import Slider from '../components/Slider';
 import Welcome from '../components/Welcome';
+import Service from '../components/service';
 import News from '../components/news';
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
              <Header/>
              <Slider/>
              <Welcome/>
+             <Service/>
              <State/>
              <Testimotion/>
              <ClientLogo/>

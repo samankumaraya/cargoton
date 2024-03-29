@@ -3,6 +3,9 @@ import "./Slider.css";
 import Slider1 from "../images/slider1.jpg"
 import Slider2 from "../images/slider2.jpg"
 
+
+
+
 export default function Slider(){
   return(
     <div className="slidecontainer mx-5 my-4">

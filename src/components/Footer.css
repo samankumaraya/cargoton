@@ -1,6 +1,7 @@
 
 .footercontain{
     background-color:#5D6D7E ;
+    height: 590px;
 }
 
 form{
@@ -12,10 +13,13 @@ form{
     color: white;
 }
 form{
-    margin-left: 45%;
+    margin-left: 65%;
+    margin-top: 1%;
+    width: 25%;
 }
 input{
-    width: 50%;
+    width: 0%;
+
 }
 .linetwo{
     float: left;
@@ -32,13 +36,46 @@ input{
 }
 .linethree{
     color: white;
-    margin-top: 7%;
+    margin-top: 5%;
+    display: flex;
+    margin-left: 3%;
 }
 
 .col-sm{
     display: flex;
   margin-left: 6%;
-  
-  
-  
+}
+.foothead{
+    position: absolute;
+    margin-left: 12.5%;
+}
+.foot1{
+    width: 23%;
+   
+    margin-left: 3%;
+}
+.foot2{
+    width: 23%;
+   
+}
+.foot3{
+    width: 23%;
+    
+}
+.foot4{
+    width: 23%;  
+}
+.foot5
+{
+display: flex;
+margin-left: 5%;
+margin-top: 8%;
+}
+.foot5left{
+   
+    width: 40%;
+}
+.foot5right{
+    
+    width: 55%;
 }

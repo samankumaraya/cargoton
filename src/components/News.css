@@ -63,3 +63,27 @@
     padding: 0.5%;
     padding-top: 10.5%;
 }
+.date{
+    position: absolute;
+    background-color: blue;
+    padding: 0.5%;
+    height: 65px;
+    color: white;
+    margin-top: -16.5%;
+}
+.date1{
+    position: absolute;
+    background-color: rgb(41, 41, 51);
+    padding: 0.5%;
+    height: 65px;
+    color: white;
+    margin-top: -16.5%;
+}
+.date3{
+    position: absolute;
+    background-color: rgb(41, 41, 51);
+    padding: 0.5%;
+    height: 65px;
+    color: white;
+    margin-top: -17.9%;
+}

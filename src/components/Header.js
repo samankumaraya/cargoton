@@ -104,6 +104,7 @@ import logo from "../images/logo.png"
         <div>
             <h6 className="ton">TON</h6>
         </div>
+        
         </div>
         
     );

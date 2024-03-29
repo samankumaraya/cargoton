@@ -8,9 +8,9 @@ export default function Welcome(){
     return(
         <div className="welcomecontain mx-5 my-5">
             <div className="welright">
-            <img  className="welimg1" src={welimg1}  />
-            <img className="welimg2" src={welimg2}  />
-            <img className="clientimg" src={clientimg}  />
+            <img  className="welimg1" src={welimg1}  alt="Logo"/>
+            <img className="welimg2" src={welimg2}  alt="Logo"/>
+            <img className="clientimg" src={clientimg} alt="Logo" />
             <h2>15,350+</h2>
             <p>Clients Worldwide</p>
             </div>

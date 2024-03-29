@@ -8,7 +8,7 @@ import logo5 from "../images/logo5.png"
 
 export default function ClientLogo(){
     return(
-        <div className="logocontainer my-5 mx-4">
+        <div className="logocontainer my-5 mx-4" style={{ 'padding-top': '70px' }}>
            <div class="row">
     <div class="col-sm">
     <img style={{ width: '45%', height: '85%' }} src={logo1} alt="Logo" />

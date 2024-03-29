@@ -1,12 +1,11 @@
-.col-lg{
-    float: left;
-    margin-left: -5%;
-    
-    
-}
+
 .testimotioncontain{
     display: flex;
     margin-left: 100px;
+    margin-bottom: 3%;
+    height: 400px;
+    padding-top: 50px;
+    
 }
 .par_trus{
     margin-left: 150px;
@@ -16,7 +15,106 @@
     width:100%;
     display: flex;
 }
-.headleft{
-    
+.headleft{   
     justify-content: start;
+}
+.tesleft{
+    width:45%;
+    
+}
+.tesright{
+    width: 45%;
+    
+}
+.teslefttopic{
+  position: absolute;
+  padding: 2%;
+  padding-left: 6%;
+}
+.tesleftsubtopic{
+position: absolute;
+padding-left: 6%;
+padding-top: 4%;
+}
+.Trustclient{
+    width: 85%;
+    height: 80%;
+    position: absolute;
+    margin-left: -30%;
+    margin-top: 2%;
+}
+.trp1{
+    position: absolute;
+padding-left: 12%;
+padding-top: 10.5%;
+}
+.trp2{
+    position: absolute;
+padding-left: 12%;
+padding-top: 11.8%;
+}
+.trp3{
+    position: absolute;
+padding-left: 12%;
+padding-top: 13.1%;
+}
+.trp4{
+    position: absolute;
+padding-left: 12%;
+padding-top: 14.4%;
+}
+.john{
+    margin-top: 51%;
+    position: relative;
+    margin-left: 70%;
+}
+.manager{
+    margin-left: 70%;
+    margin-top: -2%;
+}
+.hr1{
+    margin: 8%;
+    margin-top: 19.5%;
+    margin-left: 14%;
+    
+}
+.hr2{
+    margin: 8%;
+    margin-top: 7.5%;
+    margin-left: 14%; 
+}
+.tesleftsubtopic1{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: -2.5%;
+}
+.hr3{
+    margin: 8%;
+    margin-top: 7.5%;
+    margin-left: 14%; 
+}
+.tesleftsubtopic2{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: -2.5%;
+}
+.hr4{
+    margin: 8%;
+    margin-top: 7.5%;
+    margin-left: 14%; 
+}
+.tesleftsubtopic3{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: -2.5%;
+}
+.hr5{
+    margin: 8%;
+    margin-top: 7.5%;
+    margin-left: 14%; 
+}
+.tesleftsubtopic4{
+    position: absolute;
+    margin-left: 6%;
+    margin-top: -2.5%;
 }

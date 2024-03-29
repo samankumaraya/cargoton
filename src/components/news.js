@@ -20,6 +20,10 @@ export default function News(){
                 <div className="news1">
                      <div className="new1img">
                      <img className="new1imgs" src={Lorry} alt="welimg1" />&nbsp;
+                     <div className="date">
+                        <h5>26</h5>
+                        <p>MAY</p>
+                     </div>
                      </div>
                      <div style={{ 'background-color': '#496FF8' }} className="new1des">
                           <h6 className="n1topic">CURABITUR LOREM UISM QUIS</h6>
@@ -33,6 +37,10 @@ export default function News(){
                 <div className="news2">
                     <div className="new1img">
                      <img className="new1imgs" src={Train} alt="welimg1" />&nbsp;
+                     <div className="date1">
+                        <h5>22</h5>
+                        <p>MAY</p>
+                     </div>
                      </div>
                      <div className="new1des">
                           <h6 className="n1topic">CURABITUR LOREM UISM QUIS</h6>
@@ -48,6 +56,10 @@ export default function News(){
                 <div className="news1">
                      <div className="new1img">
                      <img className="new1imgs" src={Cargo} alt="welimg1" />&nbsp;
+                     <div className="date3">
+                        <h5>20</h5>
+                        <p>MAY</p>
+                     </div>
                      </div>
                      <div className="new1des">
                           <h6 className="n1topic">CURABITUR LOREM UISM QUIS</h6>
@@ -61,6 +73,10 @@ export default function News(){
                 <div className="news2">
                     <div className="new1img">
                      <img className="new1imgs" src={Ship} alt="welimg1" />&nbsp;
+                     <div className="date3">
+                        <h5>15</h5>
+                        <p>MAY</p>
+                     </div>
                      </div>
                      <div className="new1des">
                           <h6 className="n1topic">CURABITUR LOREM UISM QUIS</h6>
