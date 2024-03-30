@@ -76,3 +76,25 @@
     border: none;
     color: white;
 }
+
+
+  .bestship{
+    overflow: hidden; 
+  
+    white-space: nowrap; 
+  margin: 0 auto; 
+  letter-spacing: .15em; 
+  animation: 
+    typing 3.5s steps(40),
+    blink-caret .75s  infinite;
+}
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+  }
+  

@@ -87,22 +87,22 @@ export default function footer() {
 
               <div className="foot3">
               <h5 style={{ position: 'relative','margin-top': '5%', 'margin-left': '-71%', 'padding-bottom': '5%'}}>About Us</h5>
-                <div style={{ display: 'flex' }}>
+                <div  className="foot3h" style={{ display: 'flex' }}>
                 <FontAwesomeIcon icon={faHandPointRight} style={{color: "#ffffff",'margin-top': '5%', 'margin-left': '3%'}} />
                 <p ><Link to="https://www.google.com" style={{position: 'absolute',color: "#ffffff", 'text-decoration': 'none','margin-top': '0.8%', 'margin-left': '1%'}}>Support Forums</Link></p>
                 </div>
 
-                <div style={{ display: 'flex' }}>
+                <div className="foot3h"  style={{ display: 'flex' }}>
                 <FontAwesomeIcon icon={faHandPointRight} style={{color: "#ffffff",'margin-top': '5%', 'margin-left': '3%'}} />
                 <p ><Link to="https://www.google.com" style={{position: 'absolute',color: "#ffffff", 'text-decoration': 'none','margin-top': '0.8%', 'margin-left': '1%'}}>Communication</Link></p>
                 </div>
 
-                <div style={{ display: 'flex' }}>
+                <div className="foot3h"  style={{ display: 'flex' }}>
                 <FontAwesomeIcon icon={faHandPointRight} style={{color: "#ffffff",'margin-top': '5%', 'margin-left': '3%'}} />
                 <p ><Link to="https://www.google.com" style={{position: 'absolute',color: "#ffffff", 'text-decoration': 'none','margin-top': '0.8%', 'margin-left': '1%'}}>FAQS</Link></p>
                 </div>
 
-                <div style={{ display: 'flex' }}>
+                <div className="foot3h" style={{ display: 'flex' }}>
                 <FontAwesomeIcon icon={faHandPointRight} style={{color: "#ffffff",'margin-top': '5%', 'margin-left': '3%'}} />
                 <p ><Link to="https://www.google.com" style={{position: 'absolute',color: "#ffffff", 'text-decoration': 'none','margin-top': '0.8%', 'margin-left': '1%'}}>Privacy Policy</Link></p>
                 </div>

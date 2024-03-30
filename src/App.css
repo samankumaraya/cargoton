@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+/* For screens smaller than 768px (mobile devices) */
+@media only screen and (max-width: 768px) {
+  /* CSS rules specific to small screens */
+}
+
+/* For screens larger than 768px (desktops and tablets) */
+@media only screen and (min-width: 768px) {
+  /* CSS rules specific to larger screens */
+}
+/* Media queries */
+@media only screen and (max-width: 768px) {
+  /* Adjustments for small screens */
+  nav ul li {
+      display: block;
+      margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  /* Adjustments for larger screens */
+  header, nav, main, footer {
+      padding: 40px;
+  }
+}

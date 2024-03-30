@@ -79,3 +79,10 @@ margin-top: 8%;
     
     width: 55%;
 }
+.logocontainer h3{
+
+}
+.foot3h p:hover{
+  color: brown;
+  opacity: 0.5;
+}

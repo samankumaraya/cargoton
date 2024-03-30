@@ -50,7 +50,7 @@ posuere maecena. molestie lobortis posuere maecenas. Eget
     sapien,garvida nequi
   </p>
 
-  <button className="logisticbtn"><b>DISCOVER MORE</b></button>
+  <button  className="logisticbtn"><b>DISCOVER MORE</b></button>
 </div>
     </div>
   )  

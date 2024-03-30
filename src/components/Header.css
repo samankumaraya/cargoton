@@ -32,3 +32,16 @@ img{
     
     float: left;
 }
+.btn:hover{
+  transform: scale(1.1);
+  color: rgb(194, 159, 118);
+}
+button:hover{
+    transform: scale(1.1); 
+    opacity: 0.8;
+    color: red;
+}
+.logocontain h1{
+    font-family: "Oswald", sans-serif;
+    margin-left: 1.2%;
+}
